@@ -29,6 +29,15 @@ Flow of backend events (IF TIME GIVEN)
         accommodations
 
 
+Next Steps:
+Quentin (front end maniac)
+    1. Landing/welcome page (maybe a lil intro thing)
+    2. Get started on user data entry (of the a·fore·men·tioned items)
+Max (back end freak)
+    1. Find out how Apple Maps API works
+    2. Learn typescript/Next.js/coding basics/Kubernetes
+    3. Think about planning things out like a good boy
+
 
 McMiddle
 
